@@ -27,4 +27,4 @@ Feel free to fork the repository and submit pull requests if you'd like to impro
 If you have any questions or suggestions, feel free to open an issue or reach out to me directly on [X/Twitter](https://x.com/h190k) or email me at [info@h190k.com](mailto:info@h190k.com).
 
 
-Happy coding! 😊
+😊
